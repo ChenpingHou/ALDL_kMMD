@@ -1,1 +1,1 @@
-# ALDL_kMMD
+# Active Label Distribution Learning via Kernel Maximum Mean Discrepancy
